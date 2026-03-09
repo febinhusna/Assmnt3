@@ -1,0 +1,15 @@
+body {
+    font-family: Arial;
+    background-color: lightblue;
+    text-align: center;
+}
+
+img {
+    width: 200px;
+    margin: 10px;
+}
+
+table {
+    margin: auto;
+    background-color: white;
+}
