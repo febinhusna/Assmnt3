@@ -1,12 +1,12 @@
 body {
     font-family: Arial;
     background-color: lightblue;
-    text-align: center;
 }
 
 img {
     width: 200px;
     margin: 10px;
+    border-radius: 20px;
 }
 
 table {
